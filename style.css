@@ -1,0 +1,95 @@
+
+Header{
+    width: 100%;
+    height: 90vh;
+    background-color: rgb(12, 10, 10);
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 55% 100%, 43% 100%, 0 69%);
+    padding-bottom: 30px;
+}
+
+
+.about-section h1 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 80px;
+}
+.about-section h3{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+.about-section{
+    width: 100%;
+    height: 115vh;
+    background: rgb(146, 50, 50);
+   
+}
+
+
+.service-section h1{
+    text-align: center;
+    font-size: 80px;
+    
+}
+
+.service-section{
+    margin-left: 40px;
+}
+
+
+.list{
+    font-size: 30px;
+}
+
+.galary-section h1{
+    font-size: 80px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.galary-section{
+    width: 100%;
+    height: 100vh;
+    background-color: springgreen;
+}
+
+
+.notice-section{
+    width: 100%;
+    height: 100vh;
+    background-color: yellow;
+}
+
+.notice-section h1{
+    font-size: 80px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.contact-section{
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 100vh;
+}
+.contact-section h1{
+    text-align: center;
+    font-size: 80px;
+    padding: 50px;
+}
+
+.btn{
+    color: rgb(233, 21, 14);
+    background-color: cadetblue;
+    font-size: 40px;
+}
+
+.btn :hover{
+    background-color: chocolate;
+}
+
+.footer-section{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+}
